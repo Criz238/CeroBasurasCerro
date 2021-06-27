@@ -138,9 +138,7 @@ img{
     display: grid;
     grid-template-columns: repeat(5,1fr);
     align-items: center;
-    padding-top: 10px;
-
-
+    padding-top: 10px
 }
 .der{
     grid-column: 4/6;
@@ -369,7 +367,7 @@ a:hover{
         color: white;
         font-size: 15px;
         font-family: 'Open Sans', sans-serif;
-       
+
     }
     img{
         height: 350px;
@@ -381,8 +379,6 @@ a:hover{
         grid-template-columns: 1fr;
         align-content: center;
         padding-top: 5px;
-    
-    
     }
     .der{
         grid-column: 1/1;
